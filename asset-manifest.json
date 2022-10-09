@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/SaniLetchu/Portfolio/static/js/main.a0191903.js",
+    "static/media/me.jpg": "/SaniLetchu/Portfolio/static/media/me.8e179d05f119d29a7945.jpg",
+    "static/media/Battleship.png": "/SaniLetchu/Portfolio/static/media/Battleship.7337fbc39d70dec7a8bf.png",
+    "static/media/CV.png": "/SaniLetchu/Portfolio/static/media/CV.7fc32d92613ec66366f6.png",
+    "static/media/Drill.png": "/SaniLetchu/Portfolio/static/media/Drill.dfb51aee98917a296214.png",
+    "index.html": "/SaniLetchu/Portfolio/index.html",
+    "static/media/wrench.svg": "/SaniLetchu/Portfolio/static/media/wrench.fbabc2fa0b3779dcab99a9b9aa69b4c3.svg",
+    "static/media/heart.svg": "/SaniLetchu/Portfolio/static/media/heart.af8030b832f5ff7f957951bce3c9b150.svg",
+    "static/media/account.svg": "/SaniLetchu/Portfolio/static/media/account.858ace2a4655551cffb8346424b10134.svg",
+    "static/media/laptop.svg": "/SaniLetchu/Portfolio/static/media/laptop.4d4f6e6c092bf8617fcd1b69c80f3ca6.svg",
+    "main.a0191903.js.map": "/SaniLetchu/Portfolio/static/js/main.a0191903.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a0191903.js"
+  ]
+}
